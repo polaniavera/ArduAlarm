@@ -26,7 +26,9 @@ C5 = TEST
 Formato para mensaje de texto para activacion de alertas sonoras segun tipo de emergencia []={identificador de emergencia, tipo de usuario}
 
 1.para emergencia de INCENDIO, se debera enviar la letra "i" (no importa si es mayuscula o minuscula).
+
 2.para emergencia de EVACUACION, se debera enviar la letra "e"(no importa si es minuscula o mayuscula). 
+
 3. para emergencia de HURTO, bastara con que envie cualquier tipo de caracter diferentes a los preestablecidos para las otras emergencias.
 
 5.1.0.0 SET USER/NUMEBER AND TYPE OF USER --- FORMAT []= {Cx (x un numero entero), tipo user (standar=0 o especial=1),numero, name}
