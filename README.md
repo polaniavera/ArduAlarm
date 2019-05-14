@@ -20,6 +20,7 @@ Para activación por llamada telefónica o SMS, el módulo envia SMS a los usuar
 CONFIGURACIÓN
 
 *Programación por SMS
+
 C1 = Usuarios.
 C2 = Tiempos de sirena y perifoneo.
 C3 = Cambio de contraseña.
